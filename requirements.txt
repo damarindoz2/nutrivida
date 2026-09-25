@@ -1,0 +1,9 @@
+pandas
+openpyxl
+streamlit
+plotly
+matplotlib
+jupyterlab
+nbformat
+nbclient
+ipykernel

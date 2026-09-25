@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/
+PUNTO_DE_REANUDACION.md
+Caso_NutriVida_Enunciado.docx
+LEEME_Primero.txt
+RESUMEN_FORMULAS.md
+GUIA_REPASO.md
+PREGUNTAS_PENDIENTES.md
